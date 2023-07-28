@@ -1,0 +1,23 @@
+.escola-imagem{
+	width: 70%;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.escola {
+    background-image: linear-gradient(#1400FF,#051150);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escola-titulo{
+	padding: 24px 0;
+}
+
+.escola-conteudo{
+    width: 70%;
+    font-size: 24px;
+}
