@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.noticias {
+    background-color: blue;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
