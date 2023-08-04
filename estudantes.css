@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.plataformas {
+    background-color: white;
+    color: black;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+
+.plataforma-titulo{
+    padding: 0px 12px;
+}
+
+.foto-plataforma{
+    display: inline-block;
+    margin: 0 64px;
+}
+
+.classroom{
+    width: 40%;
+}
+
+.ingles-parana{
+    margin: 12px;
+}
